@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+thumbs.db
+desktop.ini
+
+# Environment variables (passwords/secret keys)
+.env
+.env.local
+
+# Node modules (can be reinstalled)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
