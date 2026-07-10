@@ -1,7 +1,7 @@
 # Week 3: Tools & Workflow
 
 ## Author
-- **Name:** John Kariuki
+- **Name:** John Njuguna Kariuki
 - **GitHub:** [@helter-skelter254](https://github.com/helter-skelter254)
 - **Date:** July 7, 2026
 
